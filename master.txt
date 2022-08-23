@@ -1,3 +1,5 @@
 Hello master
 I want to add first row 
+merge demo master
 demo merge feature1
+feature1
